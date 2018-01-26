@@ -210,20 +210,25 @@
     float: right;
 }
 
+.index-food-list .food-item .star-bar {
+    font-size: 0;
+}
+
 .index-food-list .food-item .star {
     display: inline-block;
     width: 12px;
     height: 13px;
     margin-right: 5px;
     background-image: url("../images/index-star.png");
+    background-repeat: no-repeat;
 }
 
 .index-food-list .food-item .nostar {
-    background-position: 0 -13px;
+    background-position: 0 -12px;
 }
 
 .index-pics {
-    height: 480px;
+    height: 380px;
     overflow: hidden;
 }
 

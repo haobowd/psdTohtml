@@ -44,6 +44,7 @@
 .public-footer {
     height: 218px;
     padding-top: 100px;
+    margin-top:100px;
     background: #3b3b3b;
 }
 
@@ -65,6 +66,6 @@
     width: 182px;
     height: 55px;
     margin-top: -10px;
-    margin-bottom: 12px;
-    background: url("../images/index-footer-logo.png");
+    margin-bottom: 10px;
+    background: url("../images/index-footer-logo.png") no-repeat;
 }
