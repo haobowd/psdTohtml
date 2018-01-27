@@ -12,7 +12,7 @@
 .public-header .header-logo a {
     height: 54px;
     width: 182px;
-    background: url("../images/index-header-logo.png");
+    background: url("../images/index-header-logo.png") no-repeat;
 }
 
 .public-header .header-nva {
@@ -32,7 +32,7 @@
 }
 
 .public-header .header-nva a:hover {
-    text-decoration: underline;
+    text-decoration: underline;   <!-- 设置文字修饰方式为下划线 -->
 }
 
 .public-container {
