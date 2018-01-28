@@ -4,6 +4,8 @@
     background: white;
 }
 
+/*banner背景图*/
+
 .index-banner-bg {
     height: 570px;
     overflow: hidden;
@@ -156,7 +158,7 @@
 
 .index-panel-header .line {
     float: left;
-    margin-top: 7px;
+    margin-top: 10px;
     width: 200px;
     border-top: 1px solid #e5e3e3;
 }
@@ -202,6 +204,7 @@
 }
 
 .index-food-list .food-item .name {
+    padding-top: 12px;
     color: #555;
     margin-bottom: 10px;
 }
