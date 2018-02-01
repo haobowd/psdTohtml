@@ -60,6 +60,7 @@
 
 .public-footer .footer-col:last-child {
     margin-right: 0;
+    background: no-repeat;
 }
 
 .public-footer .footer-logo {
